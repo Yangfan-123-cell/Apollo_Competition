@@ -1,0 +1,3 @@
+<library path="modules/planning/scenarios/best_parking_space/libbest_parking_space.so">
+    <class type="apollo::planning::BestParkingSpace" base_class="apollo::planning::Scenario"></class>
+</library>
